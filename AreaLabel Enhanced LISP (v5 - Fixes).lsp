@@ -1,3 +1,6 @@
+;; Copyright (c) 2025 Abdalrahman
+;; Licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+;; See LICENSE for full details.
 ;;---------------------=={ Area Label Enhanced (Named Units) }==---------------------;;
 ;;                                                                     ;;
 ;;  Allows the user to label picked areas or objects by category       ;;
@@ -5,8 +8,7 @@
 ;;  or write to file. Includes Duplex option for summing Suite areas.  ;;
 ;;  User will be prompted for a name for each unit.                    ;;
 ;;---------------------------------------------------------------------;;
-;;  Original Author: Lee Mac, Copyright © 2011 - www.lee-mac.com       ;;
-;;  Enhanced by AI for Abd alRahman - 2025                             ;;
+;;  Enhanced by AbdalRahman - 2025                                     ;;
 ;;  Modifications for Named Units - 2025                               ;;
 ;;---------------------------------------------------------------------;;
 ;;  Based on Version 1.9    -    29-10-2011                            ;;
